@@ -1,5 +1,4 @@
-## 
-## functions do
+## Creates a special data type which caches inversion matrix.
 
 ## This function creates a special "matrix" object that can cache its inverse. It is really a list containing a function to:
 ## set the value of the matrix
